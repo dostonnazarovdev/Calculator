@@ -26,3 +26,4 @@ E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\refint\CALCULATOR.dll
 E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.pdb
 E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.genruntimeconfig.cache
 E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\ref\CALCULATOR.dll
+E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.sourcelink.json
