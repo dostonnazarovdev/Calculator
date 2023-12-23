@@ -7,12 +7,12 @@ namespace Calculator
     {
        static void Main()
        {
-       Console.WriteLine("hello world");
-        System.Console.WriteLine("hello world2");
-        System.Console.Write("salom dasturchi");
-
+        Console.WriteLine("hello world1");
+        Console.WriteLine("hello world2");
+        Console.Write("hello world3\n");
+        Console.WriteLine("Hello world4");
         
-        System.Console.Write(" salom");
+        Console.ReadLine();
        }
     }
 }

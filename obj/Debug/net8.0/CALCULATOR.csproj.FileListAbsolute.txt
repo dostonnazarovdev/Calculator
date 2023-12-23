@@ -12,3 +12,17 @@ E:\.NET_lessons\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\refint\CALCULATOR
 E:\.NET_lessons\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.pdb
 E:\.NET_lessons\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.genruntimeconfig.cache
 E:\.NET_lessons\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\ref\CALCULATOR.dll
+E:\.NET\.NET Elbek Lessons\CALCULATOR\bin\Debug\net8.0\CALCULATOR.exe
+E:\.NET\.NET Elbek Lessons\CALCULATOR\bin\Debug\net8.0\CALCULATOR.deps.json
+E:\.NET\.NET Elbek Lessons\CALCULATOR\bin\Debug\net8.0\CALCULATOR.runtimeconfig.json
+E:\.NET\.NET Elbek Lessons\CALCULATOR\bin\Debug\net8.0\CALCULATOR.dll
+E:\.NET\.NET Elbek Lessons\CALCULATOR\bin\Debug\net8.0\CALCULATOR.pdb
+E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.AssemblyInfoInputs.cache
+E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.AssemblyInfo.cs
+E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.csproj.CoreCompileInputs.cache
+E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.dll
+E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\refint\CALCULATOR.dll
+E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.pdb
+E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\CALCULATOR.genruntimeconfig.cache
+E:\.NET\.NET Elbek Lessons\CALCULATOR\obj\Debug\net8.0\ref\CALCULATOR.dll
